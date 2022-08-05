@@ -18,7 +18,7 @@ Applied Sciences: https://www.mdpi.com/journal/applsci
 - License: Creative Commons Attribution 4.0 International Public License. Attribution-ShareAlike 4.0 
 
 ## Reference
-- [Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011](https://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html)
+- Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, [pp. 2825-2830, 2011](https://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html)
 - Lundberg, S.M., Erion, G., Chen, H. et al. From local explanations to global understanding with explainable AI for trees. Nat Mach Intell 2, 56–67 (2020). [https://doi.org/10.1038/s42256-019-0138-9](https://www.nature.com/articles/s42256-019-0138-9#citeas)
 - abc
 - abc
